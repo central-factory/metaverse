@@ -2,6 +2,8 @@
 
 Metaverse Operating System made for the People.
 
+[Source Code @d3v0ps/metaverse](https://github.com/d3v0ps/metaverse)
+
 ![](https://i.imgur.com/kD2pwZp.png)
 
 ## Early Access Preview 05/2022
